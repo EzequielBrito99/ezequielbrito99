@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Ezequiel Brito Navarro
+
+- 🔭 I’m currently working on personal projects.
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about front end web development, js, react.
+- 📫 How to reach me: ebritonavarro@gmail.com
 
 <!--
 **EzequielBrito99/ezequielbrito99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
