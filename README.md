@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Next.js
-- 💬 Ask me about front end web development, js, react.
+- 💬 Ask me about front-end web development, Javascript, React.
 - 📫 How to reach me: ebritonavarro@gmail.com
 
 <!--
