@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Ezequiel Brito Navarro
 
-- 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning Next.js
-- 💬 Ask me about front-end web development, Javascript, React.
+- 🔭 I’m currently working at the company Danngos Smart.
+- 💬 Ask me about front-end web development, Typescript, React.
 - 📫 How to reach me: ebritonavarro@gmail.com
 
 <!--
